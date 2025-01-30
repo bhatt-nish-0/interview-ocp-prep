@@ -15,5 +15,14 @@ public class Primitive {
         System.out.println(x.length());
 
         //String is an object, not a primitve type
+
+        s = 32767;
+        s = -32768;
+
+        c = 65535;
+
+        //short and char are same size
+        // but char cannot take negative values!
+
     }
 }
