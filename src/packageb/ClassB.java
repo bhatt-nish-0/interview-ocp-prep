@@ -6,3 +6,5 @@ public class ClassB {
         System.out.println("Got it");
     }
 }
+
+// javac packageb/ClassB.java run from src folder
